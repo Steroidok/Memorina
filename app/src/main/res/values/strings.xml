@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Memorina</string>
+    <string-array name="card_counts">
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+    </string-array>
+</resources>
